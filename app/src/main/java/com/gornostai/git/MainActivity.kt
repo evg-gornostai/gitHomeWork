@@ -11,4 +11,7 @@ class MainActivity : AppCompatActivity() {
     fun aaa(){
 
     }
+    fun bbb(){
+
+    }
 }
