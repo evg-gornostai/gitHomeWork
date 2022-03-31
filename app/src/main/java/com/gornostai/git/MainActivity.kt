@@ -14,4 +14,7 @@ class MainActivity : AppCompatActivity() {
     fun bbb(){
 
     }
+    fun ccc(){
+
+    }
 }
